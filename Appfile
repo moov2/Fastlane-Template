@@ -1,0 +1,8 @@
+# The bundle identifier of your app
+app_identifier "***"
+
+# Your Apple email address
+apple_id "***"
+
+# Your team id (if multiple team uses the same account)
+team_id "***"
