@@ -1,6 +1,6 @@
 # Moov2 Fastlane example file
 
-fastlane_version "1.37.0"
+fastlane_version "1.40.0"
 
 default_platform :ios
 
